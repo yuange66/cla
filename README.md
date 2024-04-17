@@ -50,6 +50,8 @@ Here are several ways you can contribute to the OpenIM community:
 
 📢 **Slack Channel**: Join our Slack channels for discussions, communication, and support. Click [here](https://join.slack.com/t/openimsdk/shared_invite/zt-1tmoj26uf-_FDy3dowVHBiGvLk9e5Xkg) to join the Open-IM-Server Slack team channel.
 
+I have read the CLA Document and I hereby sign the CLA
+
 📧 **Gmail Contact**: If you have any questions, suggestions, or feedback for our open-source projects, please feel free to [contact us via email](mailto:winxu81@gmail.com).
 
 📖 **Blog**: Stay up-to-date with OpenIM-Server projects and trends by reading our [blog](https://doc.rentsoft.cn/). We share the latest developments, tech trends, and other interesting information related to OpenIM.
